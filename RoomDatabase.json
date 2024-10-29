@@ -1,0 +1,595 @@
+{
+  "rooms": [
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "201"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "202"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "203"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "204"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "205"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "206"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "207"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "208"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "209"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "210"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "211"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "212"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "213"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "214"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "215"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "301"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "302"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "303"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "304"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "305"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "306"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "307"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "308"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "309"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "310"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "311"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "312"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "313"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "314"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "315"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "401"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "402"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "403"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "404"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "405"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "406"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "407"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "408"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "409"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "410"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "411"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "412"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "413"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "414"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "415"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "501"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "502"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "503"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "504"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "505"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "506"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "507"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "508"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "509"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "510"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "511"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "512"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "513"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "514"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "515"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "601"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "602"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "603"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "604"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "605"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "606"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "607"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "608"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "609"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "610"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "611"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "612"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "613"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "614"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "615"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "701"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "702"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "703"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "704"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "705"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "706"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "707"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "708"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "709"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "710"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "711"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "712"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "713"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "714"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "715"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "801"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "802"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "803"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "804"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "805"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "806"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "807"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "808"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "809"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "810"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "811"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "812"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "813"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "814"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "815"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "901"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "902"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "903"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "904"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "905"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "906"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "907"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "908"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "909"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "910"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "911"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "912"
+    },
+    {
+      "status": "清掃済",
+      "condition": "空室",
+      "id": "913"
+    }
+  ],
+  "lostItem": {}
+}
