@@ -73,9 +73,18 @@
 .room-status-empty {
   background-color: #d4edda; /* 空室: 緑 */
 }
-
+.room-status-requiredcleaning {
+  background-color: #f5c588; /* 清掃指示: オレンジ */
+}
 .room-status-cleaning {
   background-color: #fff3cd; /* 清掃中: 黄色 */
+}
+.room-status-inspecting {
+  background-color: #eeb9ee; /* 点検中: ピンク */
+}
+.room-status-dd {
+  background-color: #8881ae; /* D/D: 紺 */
+  color: white;
 }
 
 .room-status-cleaned {
