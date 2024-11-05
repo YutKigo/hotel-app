@@ -1,5 +1,3 @@
-import { useNavigate } from 'react-router-dom';  // ページ遷移用
-import { useRef } from 'react';
 //RoomItemコンポーネント
 export const RoomItem = ({ roomsList, roomNumber, changeRoomStatus }) => {
 
