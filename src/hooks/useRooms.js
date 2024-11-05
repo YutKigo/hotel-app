@@ -14,7 +14,7 @@ export const useRooms = () => {
       const targetRoom = roomsList.find((room) => room.id == roomNumber);
       const newTargetRoom = { ...targetRoom, status: newStatus.toString() };
   
-      roomsData.updateTodoData(roomNumber, newTargetRoom).then((updatedRoom) => {
+      roomsData.updateRoomData(roomNumber, newTargetRoom).then((updatedRoom) => {
         const newRoomsList = roomsList.map((room) =>
           room.id !== updatedRoom.id ? room : updatedRoom
         );
