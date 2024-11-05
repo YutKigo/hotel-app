@@ -1,5 +1,4 @@
 import './App.css';
-import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 
 import { RoomSerch } from './RoomSerch';
