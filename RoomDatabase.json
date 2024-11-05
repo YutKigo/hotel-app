@@ -1,12 +1,12 @@
 {
   "rooms": [
     {
-      "status": "清掃済",
+      "status": "清掃指示",
       "condition": "空室",
       "id": "201"
     },
     {
-      "status": "清掃済",
+      "status": "清掃中",
       "condition": "空室",
       "id": "202"
     },
@@ -16,12 +16,12 @@
       "id": "203"
     },
     {
-      "status": "清掃済",
+      "status": "D/D",
       "condition": "空室",
       "id": "204"
     },
     {
-      "status": "清掃済",
+      "status": "空室",
       "condition": "空室",
       "id": "205"
     },
